@@ -1,5 +1,6 @@
-# 🧠 AI Auto-Reply Workflow (Zapier + GPT + Google Forms)
+# 🧠 Auto-Reply to Form Submission Using AI (No Code)
 
+AI Auto-Reply Workflow (Zapier + GPT + Google Forms).
 This project automates customer support replies using AI.
 Built with no-code tools: Google Forms, OpenAI (GPT), Zapier, and Google Sheets.
 
