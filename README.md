@@ -23,5 +23,3 @@ OpenAI GPT for text generation
 Google Forms for form collection
 
 Google Sheets for logging
-
-
